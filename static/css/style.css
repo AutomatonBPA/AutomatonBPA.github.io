@@ -123,6 +123,16 @@ blockquote {
   background: #f8f8f8;
 }
 
+.contact_links {
+    color: #fc3;
+    line-height: 70px;
+    letter-spacing: 1px;
+    display: block;
+    -webkit-transition: .3s all;
+    -o-transition: .3s all;
+    transition: .3s all;
+}
+
 .box-thumb {
   max-width: 360px;
   max-height: 240px;
